@@ -45,8 +45,7 @@ General
     $ osacompile -o ~/Library/Application\ Support/LaunchBar/Copy\ SSH\ public\ key\ to\ clipboard.scpt < Copy\ SSH\ public\ key\ to\ clipboard.scpt
 
 **[Tweet current iTunes track](http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Tweet%20current%20iTunes%20track.scpt)**
-Note: You need to setup ~/.netrc with twitter credentials.
+Note: You need to setup [`~/.netrc`](http://gist.github.com/raw/387548/ed8694aaf1034d8b2251a69273bdf7fe6a231329/netrc) with twitter credentials.
 
     $ wget "http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Tweet%20current%20iTunes%20track.scpt"
     $ osacompile -o ~/Library/Application\ Support/LaunchBar/Tweet\ current\ iTunes\ track.scpt < Tweet\ current\ iTunes\ track.scpt
-
