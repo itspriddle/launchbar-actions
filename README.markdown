@@ -36,6 +36,11 @@ press spacebar to input a custom status.
     $ wget "http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Adium%20-%20iTunes%20Track.scpt"
     $ osacompile -o ~/Library/Application\ Support/LaunchBar/Adium\ -\ iTunes\ Track.scpt < Adium\ -\ iTunes\ Track.scpt
 
+**[Adium - Send Message](http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Adium%20-%20Send%20Message.scpt)**
+
+    $ wget "http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Adium%20-%20Send%20Message.scpt"
+    $ osacompile -o ~/Library/Application\ Support/LaunchBar/Adium\ -\ Send\ Message.scpt < Adium\ -\ Send\ Message.scpt
+
 The Hit List
 ------------
 **[Create new task in The Hit List](http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Create%20new%20task%20in%20The%20Hit%20List.scpt)**
@@ -56,3 +61,8 @@ Note: You need to setup [~/.netrc](http://gist.github.com/raw/387548/ed8694aaf10
 
     $ wget "http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Tweet%20current%20iTunes%20track.scpt"
     $ osacompile -o ~/Library/Application\ Support/LaunchBar/Tweet\ current\ iTunes\ track.scpt < Tweet\ current\ iTunes\ track.scpt
+
+**[Screenshot to Dropbox](http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Screenshot%20to%20Dropbox.scpt)**
+
+    $ wget "http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Screenshot%20to%20Dropbox.scpt"
+    $ osacompile -o ~/Library/Application\ Support/LaunchBar/Screenshot\ to\ Dropbox.scpt < Screenshot\ to\ Dropbox.scpt
