@@ -36,6 +36,13 @@ press spacebar to input a custom status.
     $ wget "http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Adium%20-%20iTunes%20Track.scpt"
     $ osacompile -o ~/Library/Application\ Support/LaunchBar/Adium\ -\ iTunes\ Track.scpt < Adium\ -\ iTunes\ Track.scpt
 
+The Hit List
+------------
+**[Create new task in The Hit List](http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Create%20new%20task%20in%20The%20Hit%20List.scpt)**
+
+    $ wget "http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Create%20new%20task%20in%20The%20Hit%20List.scpt"
+    $ osacompile -o ~/Library/Application\ Support/LaunchBar/Create\ new\ task\ in\ The\ Hit\ List.scpt < Create\ new\ task\ in\ The\ Hit\ List.scpt
+
 General
 -------
 
