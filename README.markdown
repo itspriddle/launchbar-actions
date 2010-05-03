@@ -13,7 +13,7 @@ Installation
 
 **Install Individually**
 
-    $ curl --silent "http://github.com/itspriddle/launchbar-applescripts/raw/master/scripts/[Script%20Name].scpt" \
+    $ curl --silent "http://github.com/itspriddle/launchbar-actions/raw/master/scripts/[Script%20Name].scpt" \
         | osacompile -o "~/Library/Application Support/LaunchBar/[Script Name].scpt"
 
 Adium
