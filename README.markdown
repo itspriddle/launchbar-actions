@@ -21,7 +21,7 @@ Adium
 These AppleScripts change your away/online status. With the action selected in LaunchBar,
 press spacebar to input a custom status.
 
-**[Adium - Away](http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Adium - Away.scpt)**
+**[Adium - Away](http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Adium%20-%20Away.scpt)**
 
     $ wget "http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Adium%20-%20Away.scpt"
     $ osacompile -o ~/Library/Application\ Support/LaunchBar/Adium\ -\ Away.scpt < Adium\ -\ Away.scpt
