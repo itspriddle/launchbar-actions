@@ -14,7 +14,7 @@ Installation
 **Install Individually**
 
     $ curl --silent "http://github.com/itspriddle/launchbar-actions/raw/master/scripts/[Script%20Name].scpt" \
-        | osacompile -o "~/Library/Application Support/LaunchBar/[Script Name].scpt"
+        | osacompile -o "~/Library/Application Support/LaunchBar/Actions/[Script Name].scpt"
 
 Adium
 -----
@@ -24,29 +24,29 @@ press spacebar to input a custom status.
 **[Adium - Away](http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Adium%20-%20Away.scpt)**
 
     $ curl --silent "http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Adium%20-%20Away.scpt" \
-        | osacompile -o "~/Library/Application Support/LaunchBar/Adium - Away.scpt"
+        | osacompile -o "~/Library/Application Support/LaunchBar/Actions/Adium - Away.scpt"
 
 **[Adium - Available](http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Adium%20-%20Available.scpt)**
 
     $ curl --silent "http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Adium%20-%20Available.scpt" \
-        | osacompile -o "~/Library/Application Support/LaunchBar/Adium - Available.scpt"
+        | osacompile -o "~/Library/Application Support/LaunchBar/Actions/Adium - Available.scpt"
 
 **[Adium - iTunes Track](http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Adium%20-%20iTunes%20Track.scpt)**
 
     $ curl --silent "http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Adium%20-%20iTunes%20Track.scpt" \
-        | osacompile -o "~/Library/Application Support/LaunchBar/Adium - iTunes Track.scpt"
+        | osacompile -o "~/Library/Application Support/LaunchBar/Actions/Adium - iTunes Track.scpt"
 
 **[Adium - Send Message](http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Adium%20-%20Send%20Message.scpt)**
 
     $ curl --silent "http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Adium%20-%20Send%20Message.scpt" \
-        | osacompile -o "~/Library/Application Support/LaunchBar/Adium - Send Message.scpt"
+        | osacompile -o "~/Library/Application Support/LaunchBar/Actions/Adium - Send Message.scpt"
 
 The Hit List
 ------------
 **[Create new task in The Hit List](http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Create%20new%20task%20in%20The%20Hit%20List.scpt)**
 
     $ curl --silent "http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Create%20new%20task%20in%20The%20Hit%20List.scpt" \
-        | osacompile -o "~/Library/Application Support/LaunchBar/Create new task in The Hit List.scpt"
+        | osacompile -o "~/Library/Application Support/LaunchBar/Actions/Create new task in The Hit List.scpt"
 
 General
 -------
@@ -54,15 +54,15 @@ General
 **[Copy SSH public key to clipboard](http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Copy%20SSH%20public%20key%20to%20clipboard.scpt)**
 
     $ curl --silent "http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Copy%20SSH%20public%20key%20to%20clipboard.scpt" \
-        | osacompile -o "~/Library/Application Support/LaunchBar/Copy SSH public key to clipboard.scpt"
+        | osacompile -o "~/Library/Application Support/LaunchBar/Actions/Copy SSH public key to clipboard.scpt"
 
 **[Tweet current iTunes track](http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Tweet%20current%20iTunes%20track.scpt)**
 Note: You need to setup [~/.netrc](http://gist.github.com/raw/387548/ed8694aaf1034d8b2251a69273bdf7fe6a231329/netrc) with twitter credentials.
 
     $ curl --silent "http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Tweet%20current%20iTunes%20track.scpt" \
-        | osacompile -o "~/Library/Application Support/LaunchBar/Tweet current iTunes track.scpt"
+        | osacompile -o "~/Library/Application Support/LaunchBar/Actions/Tweet current iTunes track.scpt"
 
 **[Screenshot to Dropbox](http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Screenshot%20to%20Dropbox.scpt)**
 
     $ curl --silent "http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Screenshot%20to%20Dropbox.scpt" \
-        | osacompile -o "~/Library/Application Support/LaunchBar/Screenshot to Dropbox.scpt"
+        | osacompile -o "~/Library/Application Support/LaunchBar/Actions/Screenshot to Dropbox.scpt"
