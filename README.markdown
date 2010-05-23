@@ -48,9 +48,22 @@ The Hit List
     $ curl --silent "http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Create%20new%20task%20in%20The%20Hit%20List.scpt" \
         | osacompile -o "$HOME/Library/Application Support/LaunchBar/Actions/Create new task in The Hit List.scpt"
 
+GitHub
+------
+**[Create gist from clipboard](http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Create%20gist%20from%20clipboard.scpt)**
+Note: Requires [gist](http://github.com/defunkt/gist) in your path
+
+    $ curl --silent "http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Create%20gist%20from%20clipboard.scpt" \
+        | osacompile -o "$HOME/Library/Application Support/LaunchBar/Actions/Create gist from clipboard.scpt"
+
+**[Create private gist from clipboard](http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Create%20private%20gist%20from%20clipboard.scpt)**
+Note: Requires [gist](http://github.com/defunkt/gist) in your path
+
+    $ curl --silent "http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Create%20private%20gist%20from%20clipboard.scpt" \
+        | osacompile -o "$HOME/Library/Application Support/LaunchBar/Actions/Create private gist from clipboard.scpt"
+
 General
 -------
-
 **[Copy SSH public key to clipboard](http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Copy%20SSH%20public%20key%20to%20clipboard.scpt)**
 
     $ curl --silent "http://github.com/itspriddle/launchbar-actions/raw/master/scripts/Copy%20SSH%20public%20key%20to%20clipboard.scpt" \
